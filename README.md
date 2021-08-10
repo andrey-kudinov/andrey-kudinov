@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreyKudinov63
-- 👀 I’m interested in volleyball and hip-hop dance
+- 👀 I’m interested in volleyball, skate skiing and hip-hop dance
 - 🌱 I’m currently learning JS, React and Vue
 - 📫 Telegram @AndreyKudinov, Twitter @Andrey__Kudinov
 
