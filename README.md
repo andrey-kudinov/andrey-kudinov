@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreyKudinov63
 - 👀 I’m interested in volleyball, skate skiing and hip-hop dance
-- 🌱 I’m currently learning JS, React and Vue
+- 🌱 I’m currently learning JS, React, Vue and Shopify
 - 📫 Telegram @AndreyKudinov, Twitter @Andrey__Kudinov
 
 <!---
