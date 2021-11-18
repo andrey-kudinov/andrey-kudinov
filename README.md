@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreyKudinov63
-- 🌱 I’m currently working on React, Redux, NextJS, Vue, Vuex, Nuxt and Shopify
+- 🌱 My tech stack: React, Redux, NextJS, Vue, Vuex, Nuxt and Shopify
 - 👀 Hobbies other than coding: 🏐 volleyball, ⛷ skate skiing, 🏊‍♂️ swimming, 🕺 hip-hop and popping dance
 - 📫 Telegram [@AndreyKudinov](https://t.me/AndreyKudinov), Twitter [@Andrey__Kudinov](https://twitter.com/Andrey__Kudinov), Email 2499931@gmail.com
 
