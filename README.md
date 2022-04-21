@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AndreyKudinov63
+- 👋 Hi, I’m Andrey Kudinov
 - 🌱 My tech stack: TS, Flow, React, Redux, NextJS, Vue, Vuex, Nuxt and Shopify
-- 🔬 Currently learning: Serverless, Sitecore
-- 👀 Hobbies other than coding: 🏐 volleyball, 🏊‍♂️ swimming and 🕺 popping dance (just google 'top popping battles' and enjoy)
+- 🔬 Especially like: CSS
+- 👀 Hobbies other than coding: 🏐 volleyball, 🏊‍♂️ swimming and 🕺 hip-hop dance
 - 📫 Telegram [@AndreyKudinov](https://t.me/AndreyKudinov), Twitter [@Andrey__Kudinov](https://twitter.com/Andrey__Kudinov), Email 2499931@gmail.com
 - 🪴 Fact: I renamed my GitHub accaunt from AndreyKudinov63 to andrey-kudinov, so some links might be broken
 
