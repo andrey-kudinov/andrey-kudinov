@@ -9,4 +9,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-kudinov&hide_langs_below=1&layout=compact&langs_count=6&exclude_repo=puzzle,quiz)
 
-<img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=andrey-kudinov&bg_color=FFF&color=000&line=0969da&point=000&hide_border=true&hide_title=true" />
+<!-- <img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=andrey-kudinov&bg_color=FFF&color=000&line=0969da&point=000&hide_border=true&hide_title=true" /> -->
