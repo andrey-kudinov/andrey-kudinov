@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrey Kudinov
-- 🌱 My tech stack: TS, Flow, React, Redux, NextJS, Vue, Vuex, Nuxt and Shopify
+- 🌱 My tech stack: TS, React, NextJS, Vue, Nuxt, AlpineJS and Shopify
 - 🔬 Especially like: CSS
 - 👀 Hobbies other than coding: 🏐 volleyball, 🏊‍♂️ swimming and 🕺 hip-hop dance
 - 📫 Telegram [@AndreyKudinov](https://t.me/AndreyKudinov), Twitter [@Andrey__Kudinov](https://twitter.com/Andrey__Kudinov), Email 2499931@gmail.com
