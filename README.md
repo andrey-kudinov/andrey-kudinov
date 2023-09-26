@@ -3,7 +3,7 @@
 - 🔬 Especially like: CSS
 - 👀 Hobbies other than coding: 🏐 volleyball, 🏊‍♂️ swimming and 🕺 hip-hop dance
 - 📫 Telegram [@AndreyKudinov](https://t.me/AndreyKudinov), Twitter [@Andrey__Kudinov](https://twitter.com/Andrey__Kudinov), Email 2499931@gmail.com
-- 🪴 Fact: I 
+- 🪴 Fact: I'll come up with this line later 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrey-kudinov&show_icons&contribs=true&count_private=true) -->
 
